@@ -1,7 +1,3 @@
-You're right, my apologies for the oversight. Here's the corrected version:
-
----
-
 # CS-255 System Analysis and Design: DriverPass Project
 
 ## Project Summary
