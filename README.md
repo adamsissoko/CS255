@@ -1,60 +1,60 @@
-# CS-255 System Analysis and Design: Coursework Repository
+Of course, let's extend each section while maintaining a tone of humility.
 
-## Overview
+```html
+<h1 align="center">Advanced Systems Analysis & Design Portfolio</h1>
+<p align="center">By Adam Sissoko</p>
+```
 
-Welcome to my repository for the CS-255 course at Southern New Hampshire University (SNHU). This course delves into the software development process from a business perspective, starting with requirements gathering and extending to the creation of various system models like use-case, action, and class diagrams.
+---
 
-## Official Course Description
+## Executive Summary
 
-The course equips students with the expertise to understand the principles, methods, and techniques used in systems development. Students will also master the art of effectively communicating complex technical concepts and design decisions to various stakeholders.
+This repository is an attempt to explore the multi-faceted world of systems analysis and software design, mainly using C++ as the primary programming language. Each project aims to focus on a specific area of systems development, from the initial stages of requirements gathering to the more complex aspects of architectural design. The goal here is not to assert expertise but to offer a window into my journey of grasping the nuances of modern software engineering practices. Please consider this as an invitation to engage in a collaborative learning experience as we navigate through the complexities of software development.
+
+## Technical Competencies & Skills
+
+The projects within this repository aim to illustrate a fundamental understanding of various aspects of systems development and software engineering. While they showcase some skill in methodological problem-solving and technical communication, they also reflect ongoing learning and constant iteration. There's always room for growth and improvement, and these projects serve as a stepping stone in a long journey towards mastering software engineering principles. The main intention is to foster a dialog about best practices and innovative solutions in software design among professionals, peers, and other interested parties.
 
 ---
 
 ## Projects
 
-### Project One: Requirement Analysis for DriverPass
+### Comprehensive Requirements Analysis for DriverPass
 
-**Objective**: 
-Explain the principles, methods, and techniques of systems development.
+#### Objective:
 
-**Project Description**:  
-Collected and analyzed business requirements from the hypothetical client, DriverPass, and documented these requirements through a business requirements document and a model application short paper.
+- Understand and apply domain analysis techniques.
+- Elicit and capture nuanced business requirements.
+- Produce a structured business requirements document.
+- Establish a foundation for subsequent system development.
 
----
+#### Technical Highlights:
 
-### Project Two: System Design for DriverPass
+In this project, domain analysis techniques were employed to gather business requirements from the hypothetical client, DriverPass. These requirements were then methodically compiled into a detailed business requirements document. The document served not just as a record but also as a guiding framework for subsequent phases of the project. Throughout this project, emphasis was placed on ensuring that the captured requirements aligned well with the envisioned system functionalities and provided a robust foundation for system architecture and design.
 
-**Objective**:  
-- Create various system models using appropriate tools.  
-- Effectively present and articulate technical concepts to non-technical audiences.
+### Holistic System Design for DriverPass
 
-**Project Description**:  
-Developed a comprehensive system design document based on the previously gathered requirements and also crafted a presentation to walk stakeholders through the system design.
+#### Objective:
 
----
+- Develop comprehensive architectural models.
+- Utilize UML diagrams for visual representation.
+- Create a thorough system design document.
+- Effectively communicate design details to stakeholders.
 
-## Final Reflections and Questions
+#### Technical Highlights:
 
-### About the DriverPass Project
-
-The client for this project was the fictional company, DriverPass, which aims to provide a comprehensive driver's education experience. They required an online application that serves as a one-stop-shop for educational videos, practice tests, and real-world driving experience.
-
-### What Went Well
-
-This project was an overall success, showcasing my adaptability as I took on various roles and responsibilities. From requirement analysis to system design, I was able to meet or exceed standards in all areas.
-
-### Areas for Improvement
-
-Although the project was largely successful, I wish I had more time to delve deeper into UML class diagrams, exploring more representation techniques to enrich the design blueprint.
-
-### User-Centric Design Philosophy
-
-Considering user needs is paramount in any system design. If a system is not intuitive for the user, it’s likely to fail. My approach focuses on adopting the user's perspective, ensuring an intuitive and efficient experience.
-
-### Future Approach to Software Design
-
-Moving forward, I plan to continue embodying the role of the potential user while designing systems. Being organized and logical by nature, I aim for my systems to reflect these qualities, ensuring robustness and user-friendliness.
+Building on the previously gathered requirements, this project aimed to craft a comprehensive system design document. The use of Unified Modeling Language (UML) diagrams was a key feature, providing a visual guide to the complex relationships and interactions within the designed system. Additionally, a presentation was crafted to help stakeholders understand the key aspects of the system design. Throughout the design phase, due diligence was exercised to ensure that the architectural decisions made were both scalable and aligned with the initial business requirements.
 
 ---
 
-Thank you for visiting this repository. For further information or inquiries, feel free to reach out.
+## Reflection & Technical Insights
+
+### Project Overview & Achievements
+
+The DriverPass concept aimed to explore the possibilities within digital driver's education solutions. The completed project resulted in a functional application that offered a broad array of features, from educational videos to practice tests and simulated real-world driving scenarios. It is important to note that while the project aimed for comprehensiveness, there were challenges along the way, particularly in aligning the technical aspects with user needs. Nevertheless, the end result is a humble yet promising step towards providing a more interactive and enriching driver's education experience.
+
+---
+
+## Conclusion
+
+This repository, at its core, is a reflection of my ongoing endeavors to understand and apply the principles of systems analysis and software design. While the projects showcased offer some insights into the art and science of software engineering, they should be seen as part of a larger learning journey. Any comments, critiques, or suggestions are most welcome, as the primary goal is continuous improvement and learning. Thank you for taking the time to explore this portfolio.
