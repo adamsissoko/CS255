@@ -1,11 +1,7 @@
-Of course, let's extend each section while maintaining a tone of humility.
 
-```html
 <h1 align="center">Advanced Systems Analysis & Design Portfolio</h1>
 <p align="center">By Adam Sissoko</p>
-```
 
----
 
 ## Executive Summary
 
